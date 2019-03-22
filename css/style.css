@@ -1,3 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
 
+.row::before,
+.row::after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.jumbotron {
+  background: url("https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") 0/cover;
+  border-radius: 0;
+  color: white;
+  text-shadow: 2px 2px 4px darkslategray; }
+  .jumbotron .container {
+    border: 3px solid white;
+    text-align: center;
+    margin-top: 10vh; }
+    .jumbotron .container h1 {
+      font-family: "Abril Fatface", cursive;
+      font-size: 80px; }
+    .jumbotron .container p {
+      font-family: "Bitter", serif;
+      font-size: 30px;
+      font-weight: bold; }
+
+section p {
+  font-family: "Bitter", serif; }
 
 /*# sourceMappingURL=style.css.map */

@@ -7,7 +7,7 @@
   display: flex;
   align-items: center; }
   .jumbotron .container {
-    border: 3px solid white;
+    border: 3px solid yellow;
     text-align: center; }
     .jumbotron .container h1 {
       font-family: "Abril Fatface", cursive;

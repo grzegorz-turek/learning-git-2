@@ -1,2 +1,3 @@
 # learning-git-2
-Fot testing purposes only
+For testing purposes only
+https://grzegorz-turek.github.io/learning-git-2/

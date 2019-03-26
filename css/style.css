@@ -1,15 +1,46 @@
-.jumbotron { background: url("https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") 0/cover; border-radius: 0; color: white; text-shadow: 2px 2px 4px darkslategray; height: 100vh; display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; }
+.jumbotron {
+  background: url("https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") 0/cover;
+  border-radius: 0;
+  color: white;
+  text-shadow: 2px 2px 4px darkslategray;
+  height: 100vh;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+}
 
-.jumbotron .container { border: 5px solid white; text-align: center; }
+.jumbotron .container {
+  border: 10px solid white;
+  text-align: center;
+}
 
-.jumbotron .container h1 { font-family: "Abril Fatface", cursive; font-size: 160px; }
+.jumbotron .container h1 {
+  font-family: "Abril Fatface", cursive;
+  font-size: 160px;
+}
 
-.jumbotron .container p { font-family: "Bitter", serif; font-size: 30px; font-weight: bold; }
+.jumbotron .container p {
+  font-family: "Bitter", serif;
+  font-size: 30px;
+  font-weight: bold;
+}
 
-section { text-align: center; }
+section {
+  text-align: center;
+}
 
-section h1 { font-family: "Abril Fatface", cursive; padding: 40px 0; }
+section h1 {
+  font-family: "Abril Fatface", cursive;
+  padding: 40px 0;
+}
 
-section p { font-family: "Bitter", serif; font-size: 20px; }
+section p {
+  font-family: "Bitter", serif;
+  font-size: 20px;
+}
 
-section p:last-child { padding-bottom: 40px; }
+section p:last-child {
+  padding-bottom: 40px;
+}
+/*# sourceMappingURL=style.css.map */
